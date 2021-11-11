@@ -32,6 +32,6 @@ function App() {
       cookiePolicy={'single_host_origin'}
     />
   );
-}
+} 
 
 export default App;
